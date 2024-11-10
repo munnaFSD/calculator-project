@@ -1,0 +1,1 @@
+This Python Calculator project is a simple console-based calculator built entirely using Python without any external libraries. The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division, all through a text-based interface.
